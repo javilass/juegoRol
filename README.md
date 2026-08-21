@@ -1,7 +1,5 @@
-# Documentación jueguito:
-================================================================================
 DOCUMENTACIÓN DEL PROYECTO: juegoRol
-================================================================================
+=======================================
 Repositorio: https://github.com/javilass/juegoRol
 Autor: javilass
 Lenguaje: Python
