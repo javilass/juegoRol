@@ -271,6 +271,4 @@ Encapsulamiento:  Cada clase agrupa sus propios atributos y comportamientos
                   relacionados (por ejemplo, Inventario controla el acceso
                   a su lista de objetos mediante agregar_objeto()).
 
-================================================================================
-FIN DE LA DOCUMENTACIÓN
-================================================================================
+
